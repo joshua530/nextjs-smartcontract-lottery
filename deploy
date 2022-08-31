@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+gnome-terminal --working-directory="$HOME/Tmp/hardhat-smartcontract-lottery" -e "hh deploy"
